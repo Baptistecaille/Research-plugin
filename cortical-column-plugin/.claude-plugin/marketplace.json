@@ -1,0 +1,22 @@
+{
+  "$schema": "https://anthropic.com/claude-code/marketplace.schema.json",
+  "name": "cortical-columns-research",
+  "version": "0.1.0",
+  "description": "Claude Cowork plugin for thesis research on algorithm representation of cortical columns. Discovers, analyzes, and organizes academic papers from arXiv and Semantic Scholar into an Obsidian vault.",
+  "owner": {
+    "name": "Baptiste Caillerie"
+  },
+  "plugins": [
+    {
+      "name": "cortical-columns",
+      "description": "Research companion for cortical columns thesis: paper discovery, deep analysis, periodic scanning, and literature gap analysis with Obsidian integration",
+      "version": "0.1.0",
+      "author": {
+        "name": "Baptiste Caillerie"
+      },
+      "source": "./plugins/cortical-columns",
+      "category": "research",
+      "homepage": "https://github.com/baptistecaillerie/cortical-columns-research"
+    }
+  ]
+}
