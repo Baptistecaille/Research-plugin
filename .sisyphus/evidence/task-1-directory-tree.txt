@@ -1,0 +1,8 @@
+cortical-columns-research/
+cortical-columns-research/.claude-plugin
+cortical-columns-research/agents
+cortical-columns-research/commands
+cortical-columns-research/mcp-servers
+cortical-columns-research/mcp-servers/arxiv
+cortical-columns-research/mcp-servers/semantic-scholar
+cortical-columns-research/skills

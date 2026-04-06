@@ -1,0 +1,32 @@
+{
+  "name": "algo-math-structurer",
+  "version": "0.1.0",
+  "description": "Transform Python algorithm code into complete mathematical proof documents with formal verification, complexity analysis, and LaTeX output.",
+  "commands": [
+    {
+      "name": "generate-proof",
+      "path": "commands/generate-proof.md",
+      "description": "Generate a complete mathematical proof document from Python algorithm code. Produces LaTeX compiled to PDF with definitions, theorems, proofs, and complexity analysis."
+    },
+    {
+      "name": "analyze-complexity",
+      "path": "commands/analyze-complexity.md",
+      "description": "Analyze time and space complexity of a Python algorithm. Produces Big-O analysis with derivation."
+    },
+    {
+      "name": "extract-properties",
+      "path": "commands/extract-properties.md",
+      "description": "Extract formal properties from Python algorithm code: preconditions, postconditions, invariants, termination conditions."
+    }
+  ],
+  "skills": [
+    {
+      "name": "algorithm-formalization",
+      "path": "skills/algorithm-formalization/SKILL.md",
+      "description": "Core skill for parsing Python algorithms, extracting mathematical properties, generating formal proofs, and producing LaTeX documents."
+    }
+  ],
+  "dependencies": {
+    "pdflatex": "Required for compiling LaTeX proof documents to PDF"
+  }
+}

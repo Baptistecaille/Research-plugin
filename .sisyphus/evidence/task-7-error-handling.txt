@@ -1,0 +1,4 @@
+=== Error Handling ===
+SKILL.md Guardrail: 'Syntax errors → Report, best-effort on parseable portions'
+SKILL.md Guardrail: 'NEVER hallucinate mathematical properties'
+RESULT: Error handling defined in SKILL.md

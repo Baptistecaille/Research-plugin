@@ -1,0 +1,17 @@
+Archive:  algo-math-structurer.plugin
+    testing: .mcp.json                OK
+    testing: README.md                OK
+    testing: .claude-plugin/          OK
+    testing: .claude-plugin/plugin.json   OK
+    testing: commands/                OK
+    testing: commands/analyze-complexity.md   OK
+    testing: commands/extract-properties.md   OK
+    testing: commands/generate-proof.md   OK
+    testing: skills/                  OK
+    testing: skills/algorithm-formalization/   OK
+    testing: skills/algorithm-formalization/references/   OK
+    testing: skills/algorithm-formalization/references/latex-template.md   OK
+    testing: skills/algorithm-formalization/references/proof-patterns.md   OK
+    testing: skills/algorithm-formalization/SKILL.md   OK
+No errors detected in compressed data of algo-math-structurer.plugin.
+EXIT_CODE=0

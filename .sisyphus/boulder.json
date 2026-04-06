@@ -1,0 +1,104 @@
+{
+  "active_plan": "/Users/baptistecaillerie/Documents/Claude plugins/Research plugin/.sisyphus/plans/algo-math-structurer.md",
+  "started_at": "2026-04-06T10:14:38.622Z",
+  "session_ids": [
+    "ses_29dea69c1ffeblAu2dbkst4r1b",
+    "ses_29db4b4d3ffet1ttvfYpLoH4Qa",
+    "ses_29db2d2a0ffeMeKxFXf6Up2izP",
+    "ses_29daece6affeodrkE3gMkZ0zB7",
+    "ses_29da11f08ffeA44if0U7kCKXNy",
+    "ses_29d9d8d36ffeaXveR3boezaKIi",
+    "ses_29d816734ffe8uCC9gIqA4Qbru",
+    "ses_29d41cc71ffefYZCxSZt2EgSfw",
+    "ses_29d24fafdfferUdAMH1lGopom5",
+    "ses_29d18f4b1ffeJ1xfUeSquELZwy",
+    "ses_29d170e6bffedrly3qvlxAQVhM",
+    "ses_29d15231bffeGsEbfciInMKOIK",
+    "ses_29d13c55cffexkeQdvKvgDH2J9"
+  ],
+  "plan_name": "algo-math-structurer",
+  "agent": "atlas",
+  "task_sessions": {
+    "todo:1": {
+      "task_key": "todo:1",
+      "task_label": "1",
+      "task_title": "Plugin Scaffolding + plugin.json",
+      "session_id": "ses_29db4b4d3ffet1ttvfYpLoH4Qa",
+      "agent": "Sisyphus-Junior",
+      "category": "quick",
+      "updated_at": "2026-04-06T10:17:35.238Z"
+    },
+    "todo:2": {
+      "task_key": "todo:2",
+      "task_label": "2",
+      "task_title": "README.md Documentation",
+      "session_id": "ses_29db2d2a0ffeMeKxFXf6Up2izP",
+      "agent": "Sisyphus-Junior",
+      "category": "quick",
+      "updated_at": "2026-04-06T10:21:17.067Z"
+    },
+    "todo:3": {
+      "task_key": "todo:3",
+      "task_label": "3",
+      "task_title": "LaTeX Template Reference",
+      "session_id": "ses_29da11f08ffeA44if0U7kCKXNy",
+      "agent": "Sisyphus-Junior",
+      "category": "quick",
+      "updated_at": "2026-04-06T10:39:54.954Z"
+    },
+    "todo:4": {
+      "task_key": "todo:4",
+      "task_label": "4",
+      "task_title": "Core SKILL.md — Algorithm Formalization Workflow",
+      "session_id": "ses_29d41cc71ffefYZCxSZt2EgSfw",
+      "agent": "Sisyphus-Junior",
+      "category": "quick",
+      "updated_at": "2026-04-06T12:51:42.626Z"
+    },
+    "todo:5": {
+      "task_key": "todo:5",
+      "task_label": "5",
+      "task_title": "Proof Patterns Reference",
+      "session_id": "ses_29d24fafdfferUdAMH1lGopom5",
+      "agent": "Sisyphus-Junior",
+      "category": "unspecified-high",
+      "updated_at": "2026-04-06T13:05:46.852Z"
+    },
+    "todo:6": {
+      "task_key": "todo:6",
+      "task_label": "6",
+      "task_title": "Three Slash Commands",
+      "session_id": "ses_29d18f4b1ffeJ1xfUeSquELZwy",
+      "agent": "Sisyphus-Junior",
+      "category": "quick",
+      "updated_at": "2026-04-06T13:07:53.592Z"
+    },
+    "todo:7": {
+      "task_key": "todo:7",
+      "task_label": "7",
+      "task_title": "End-to-End Validation with Example Algorithm",
+      "session_id": "ses_29d170e6bffedrly3qvlxAQVhM",
+      "agent": "Sisyphus-Junior",
+      "category": "deep",
+      "updated_at": "2026-04-06T13:09:52.015Z"
+    },
+    "todo:8": {
+      "task_key": "todo:8",
+      "task_label": "8",
+      "task_title": "Plugin Packaging (.plugin zip)",
+      "session_id": "ses_29d15231bffeGsEbfciInMKOIK",
+      "agent": "Sisyphus-Junior",
+      "category": "quick",
+      "updated_at": "2026-04-06T13:11:53.829Z"
+    },
+    "final-wave:f1": {
+      "task_key": "final-wave:f1",
+      "task_label": "F1",
+      "task_title": "**Plan Compliance Audit** — `oracle`",
+      "session_id": "ses_29d13c55cffexkeQdvKvgDH2J9",
+      "agent": "Sisyphus-Junior",
+      "category": "unspecified-high",
+      "updated_at": "2026-04-06T13:12:41.242Z"
+    }
+  }
+}

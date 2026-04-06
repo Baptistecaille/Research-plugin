@@ -1,0 +1,21 @@
+{
+  "$schema": "https://anthropic.com/claude-code/marketplace.schema.json",
+  "name": "algo-math-structurer",
+  "interface": {
+    "displayName": "Algo Math Structurer"
+  },
+  "plugins": [
+    {
+      "name": "algo-math-structurer",
+      "source": {
+        "source": "local",
+        "path": "./algo-math-structurer"
+      },
+      "policy": {
+        "installation": "AVAILABLE",
+        "authentication": "ON_INSTALL"
+      },
+      "category": "Productivity"
+    }
+  ]
+}

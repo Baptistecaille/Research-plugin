@@ -1,0 +1,9 @@
+cortical-columns-research/vault-template/
+cortical-columns-research/vault-template/.obsidian
+cortical-columns-research/vault-template/00 - Inbox
+cortical-columns-research/vault-template/01 - Foundational Papers
+cortical-columns-research/vault-template/02 - Recent Discoveries
+cortical-columns-research/vault-template/03 - Concepts
+cortical-columns-research/vault-template/04 - Literature Map
+cortical-columns-research/vault-template/05 - Thesis Notes
+cortical-columns-research/vault-template/_templates

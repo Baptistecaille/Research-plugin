@@ -1,0 +1,1 @@
+All 4 tools registered: ['search_papers', 'get_paper_details', 'get_recent_papers', 'search_by_author']

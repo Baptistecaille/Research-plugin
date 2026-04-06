@@ -1,0 +1,19 @@
+Archive:  algo-math-structurer.plugin
+  Length      Date    Time    Name
+---------  ---------- -----   ----
+       23  04-06-2026 12:16   .mcp.json
+     4030  04-06-2026 12:20   README.md
+        0  04-06-2026 12:16   .claude-plugin/
+      337  04-06-2026 12:16   .claude-plugin/plugin.json
+        0  04-06-2026 15:07   commands/
+      981  04-06-2026 15:07   commands/analyze-complexity.md
+      936  04-06-2026 15:07   commands/extract-properties.md
+     1173  04-06-2026 15:07   commands/generate-proof.md
+        0  04-06-2026 12:16   skills/
+        0  04-06-2026 14:52   skills/algorithm-formalization/
+        0  04-06-2026 15:05   skills/algorithm-formalization/references/
+     4406  04-06-2026 12:37   skills/algorithm-formalization/references/latex-template.md
+     5492  04-06-2026 15:05   skills/algorithm-formalization/references/proof-patterns.md
+     4221  04-06-2026 14:52   skills/algorithm-formalization/SKILL.md
+---------                     -------
+    21599                     14 files

@@ -1,0 +1,9 @@
+{
+  "name": "algo-math-structurer",
+  "version": "0.1.0",
+  "description": "Transform Python algorithm code into formal mathematical documents with proofs, exported as compilable LaTeX and compiled to PDF.",
+  "author": {
+    "name": "Baptiste Caillerie"
+  },
+  "keywords": ["mathematics", "latex", "formal-proofs", "algorithms", "python", "proofs"]
+}
