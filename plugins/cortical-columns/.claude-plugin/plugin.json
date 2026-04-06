@@ -1,0 +1,10 @@
+{
+  "name": "cortical-columns",
+  "version": "0.1.0",
+  "description": "Research plugin for thesis work on cortical columns and algorithmic representations. Discovers, analyzes, and organizes academic papers from arXiv and Semantic Scholar into an Obsidian vault.",
+  "author": {
+    "name": "Baptiste Caillerie"
+  },
+  "license": "MIT",
+  "keywords": ["research", "academic-papers", "arxiv", "obsidian", "thesis", "cortical-columns"]
+}

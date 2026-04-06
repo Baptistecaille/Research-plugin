@@ -2,7 +2,7 @@
   "$schema": "https://anthropic.com/claude-code/marketplace.schema.json",
   "name": "research-plugin",
   "version": "0.1.0",
-  "description": "Claude Cowork research workspace for theoretical AI, including the algo-math-structurer plugin for formal mathematical analysis of Python algorithms.",
+  "description": "Claude Cowork research workspace for theoretical AI, including the algo-math-structurer and cortical-columns plugins.",
   "owner": {
     "name": "Baptiste Caillerie"
   },
@@ -15,6 +15,16 @@
         "name": "Baptiste Caillerie"
       },
       "source": "./plugins/algo-math-structurer",
+      "category": "research"
+    },
+    {
+      "name": "cortical-columns",
+      "description": "Research companion for cortical columns thesis: paper discovery, deep analysis, periodic scanning, and literature gap analysis with Obsidian integration.",
+      "version": "0.1.0",
+      "author": {
+        "name": "Baptiste Caillerie"
+      },
+      "source": "./plugins/cortical-columns",
       "category": "research"
     }
   ]
