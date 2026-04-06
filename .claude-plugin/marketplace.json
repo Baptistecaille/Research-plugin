@@ -1,21 +1,21 @@
 {
   "$schema": "https://anthropic.com/claude-code/marketplace.schema.json",
-  "name": "algo-math-structurer",
-  "interface": {
-    "displayName": "Algo Math Structurer"
+  "name": "research-plugin",
+  "version": "0.1.0",
+  "description": "Claude Cowork research workspace for theoretical AI, including the algo-math-structurer plugin for formal mathematical analysis of Python algorithms.",
+  "owner": {
+    "name": "Baptiste Caillerie"
   },
   "plugins": [
     {
       "name": "algo-math-structurer",
-      "source": {
-        "source": "local",
-        "path": "./algo-math-structurer"
+      "description": "Formal mathematical analysis of Python algorithms with proofs and LaTeX output.",
+      "version": "0.1.0",
+      "author": {
+        "name": "Baptiste Caillerie"
       },
-      "policy": {
-        "installation": "AVAILABLE",
-        "authentication": "ON_INSTALL"
-      },
-      "category": "Productivity"
+      "source": "./plugins/algo-math-structurer",
+      "category": "research"
     }
   ]
 }
