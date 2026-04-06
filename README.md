@@ -1,19 +1,32 @@
-# Algo Math Structurer Marketplace
+# Theoretical AI Research Workspace
 
-This repository packages the `algo-math-structurer` Claude Cowork plugin and a local marketplace entry.
+This folder is a research workspace for theoretical AI.
 
-## Install
+It is where we keep notes, experiments, plugin prototypes, and supporting material related to formal reasoning, algorithmic structure, mathematical analysis, and other theory-focused AI work.
 
-In Claude Cowork, type `/plugin`, choose **Add marketplace**, and select this repository.
+## What Lives Here
 
-Then install the `algo-math-structurer` plugin.
+- Research plugins and tooling
+- Proof-oriented and math-oriented experiments
+- Literature notes and synthesis documents
+- Working drafts, evidence, and planning artifacts
 
-## Plugin
+## Current Projects
 
-- Source plugin: [`algo-math-structurer/`](/Users/baptistecaillerie/Documents/Claude%20plugins/Research%20plugin/algo-math-structurer)
-- Marketplace config: [`.claude-plugin/marketplace.json`](/Users/baptistecaillerie/Documents/Claude%20plugins/Research%20plugin/.claude-plugin/marketplace.json)
+- `algo-math-structurer`: a Claude Cowork plugin for turning Python algorithms into formal mathematical documents with proofs and LaTeX output
+- `cortical-columns-research`: a Claude Cowork marketplace plugin for thesis research on cortical columns and algorithmic representations
 
-## Notes
+## Working Style
 
-- The plugin itself remains in `algo-math-structurer/`.
-- The packaged archive is [`algo-math-structurer.plugin`](/Users/baptistecaillerie/Documents/Claude%20plugins/Research%20plugin/algo-math-structurer.plugin).
+- Keep the repository focused on research, not production deployment
+- Prefer clear structure and reproducible notes
+- Use separate folders for distinct research threads
+- Keep plugin-specific documentation inside each project folder
+
+## Repository Layout
+
+- `algo-math-structurer/` for the algorithm formalization plugin
+- `cortical-columns-research/` for cortical columns research
+- `.sisyphus/` for planning, evidence, and internal notes
+- `.claude-plugin/` for marketplace configuration
+
